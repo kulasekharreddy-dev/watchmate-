@@ -1,0 +1,9 @@
+.env
+.gitignore
+db.sqlite3
+__pycache__
+*.pyc
+*.pyo
+menv/
+.git
+README.md
