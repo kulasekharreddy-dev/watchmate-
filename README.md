@@ -9,7 +9,7 @@ A production-ready REST API built with Django REST Framework, featuring token au
 - **Python 3.11**
 - **Django 3.2**
 - **Django REST Framework 3.12**
-- **SimpleJWT** — JWT based authentication
+- **DRF Token Authentication** — Token based authentication
 - **SQLite** — Development database
 - **Docker** — Containerization
 - **GitHub Actions** — CI/CD pipeline
